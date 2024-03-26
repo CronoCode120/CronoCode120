@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @CronoCode120
-- 👀 I’m interested in web and videogame development
-- 🌱 I’m currently learning front and back-end web development.
-- 💞️ I’m looking to collaborate on any project.
+- 👋 Hi, I’m Cristóbal, a web developer oriented to Front-End.
 - 📫 How to reach me: ctaverafernandez@gmail.com.
 
 <!---
