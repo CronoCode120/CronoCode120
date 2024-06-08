@@ -1,5 +1,5 @@
 # 👋 Hi, I'm [Cristóbal](https://www.linkedin.com/in/cristobal-tavera/)!
-💻 Frontend Developer focused on [software quality](https://iso25000.com/index.php/en/iso-25000-standards).<br>
+💻 Frontend Developer focused on [software quality](https://iso25000.com/index.php/en/iso-25000-standards) and sustainability.<br>
 ⚗️ Studied Testing Fundamentals at 'Escuela de Organización Industrial', Spain.<br>
 🌱 Currently learning Mobile App Development.<br>
 🌷 Eager to create software that brings value, embracing challenge along the way.
